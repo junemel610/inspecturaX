@@ -521,3 +521,170 @@ NameError: name 'ROI' is not defined
 2024-11-15 05:16:35,544 - Wood counted: 13 for wood piece Death_knot_101_256 with defect Death_knot
 2024-11-15 05:16:39,930 - Wood counted: 14 for wood piece Death_knot_211_253 with defect Death_knot
 2024-11-15 05:16:51,644 - Wood counted: 15 for wood piece Death_knot_303_214 with defect Death_knot
+2024-11-15 05:22:20,079 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 05:22:20,080 - [33mPress CTRL+C to quit[0m
+2024-11-15 05:22:28,608 - 192.168.1.3 - - [15/Nov/2024 05:22:28] "GET / HTTP/1.1" 200 -
+2024-11-15 05:22:33,577 - 192.168.1.3 - - [15/Nov/2024 05:22:33] "GET / HTTP/1.1" 200 -
+2024-11-15 05:23:12,996 - Wood counted: 1 for wood piece Death_knot_300_237 with defect Unknown
+2024-11-15 05:23:31,423 - Wood counted: 2 for wood piece Death_knot_141_163 with defect Unknown
+2024-11-15 05:25:24,980 - Wood counted: 3 for wood piece Death_knot_309_239 with defect Unknown
+2024-11-15 05:25:34,269 - Wood counted: 4 for wood piece Death_knot_308_238 with defect Unknown
+2024-11-15 05:25:38,477 - Wood counted: 5 for wood piece Death_knot_308_237 with defect Unknown
+2024-11-15 05:25:42,796 - Wood counted: 6 for wood piece Death_knot_304_240 with defect Unknown
+2024-11-15 05:25:48,107 - Wood counted: 7 for wood piece Death_knot_307_237 with defect Unknown
+2024-11-15 05:26:02,058 - Wood counted: 8 for wood piece Death_knot_305_238 with defect Unknown
+2024-11-15 05:26:06,382 - Wood counted: 9 for wood piece Death_knot_305_239 with defect Unknown
+2024-11-15 05:26:10,682 - Wood counted: 10 for wood piece Death_knot_306_239 with defect Unknown
+2024-11-15 05:26:23,655 - Wood counted: 11 for wood piece Death_knot_307_240 with defect Unknown
+2024-11-15 05:26:45,937 - Wood counted: 12 for wood piece Death_knot_310_239 with defect Unknown
+2024-11-15 05:26:55,410 - Wood counted: 13 for wood piece Death_knot_307_238 with defect Unknown
+2024-11-15 05:27:09,625 - Wood counted: 14 for wood piece Death_knot_306_238 with defect Unknown
+2024-11-15 05:27:54,022 - Wood counted: 15 for wood piece Death_knot_97_256 with defect Unknown
+2024-11-15 05:28:36,785 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 05:28:36,786 - [33mPress CTRL+C to quit[0m
+2024-11-15 05:28:38,172 - Wood counted: 1 for wood piece Death_knot_98_255 with defect Unknown
+2024-11-15 05:28:43,120 - 192.168.1.3 - - [15/Nov/2024 05:28:43] "GET / HTTP/1.1" 200 -
+2024-11-15 05:30:29,657 - Wood counted: 2 for wood piece Death_knot_99_256 with defect Unknown
+2024-11-15 05:30:38,962 - Wood counted: 3 for wood piece Death_knot_102_255 with defect Unknown
+2024-11-15 05:32:09,385 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 05:32:09,386 - [33mPress CTRL+C to quit[0m
+2024-11-15 05:32:09,431 - 192.168.1.3 - - [15/Nov/2024 05:32:09] "GET / HTTP/1.1" 200 -
+2024-11-15 05:32:29,292 - Wood counted: 1 for wood piece Death_knot_102_134 with defect Death_knot
+2024-11-15 05:32:34,497 - Wood counted: 2 for wood piece Death_knot_146_147 with defect Death_knot
+2024-11-15 05:32:40,410 - Wood counted: 3 for wood piece resin_300_275 with defect resin
+2024-11-15 05:32:59,234 - Wood counted: 4 for wood piece Death_knot_101_255 with defect Death_knot
+2024-11-15 05:33:28,922 - Wood counted: 5 for wood piece Death_knot_310_234 with defect Death_knot
+2024-11-15 05:33:59,398 - Wood counted: 6 for wood piece Death_knot_172_39 with defect Death_knot
+2024-11-15 05:34:35,045 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 05:34:35,045 - [33mPress CTRL+C to quit[0m
+2024-11-15 05:34:35,159 - 192.168.1.3 - - [15/Nov/2024 05:34:35] "GET / HTTP/1.1" 200 -
+2024-11-15 05:34:36,799 - Wood counted: 1 for wood piece Death_knot_310_27 with defect Death_knot
+2024-11-15 05:35:14,453 - Wood counted: 2 for wood piece Death_knot_102_254 with defect Death_knot
+2024-11-15 05:35:44,944 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 05:35:44,944 - [33mPress CTRL+C to quit[0m
+2024-11-15 05:35:45,454 - 192.168.1.3 - - [15/Nov/2024 05:35:45] "GET / HTTP/1.1" 200 -
+2024-11-15 05:35:59,086 - Wood counted: 1 for wood piece Death_knot_134_168 with defect Death_knot
+2024-11-15 05:36:04,162 - Wood counted: 2 for wood piece Death_knot_308_21 with defect Death_knot
+2024-11-15 05:36:30,095 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 05:36:30,095 - [33mPress CTRL+C to quit[0m
+2024-11-15 05:36:30,806 - 192.168.1.3 - - [15/Nov/2024 05:36:30] "GET / HTTP/1.1" 200 -
+2024-11-15 05:36:46,957 - Wood counted: 1 for wood piece Death_knot_140_162 with defect Death_knot
+2024-11-15 05:37:01,687 - Wood counted: 2 for wood piece Death_knot_122_164 with defect Death_knot
+2024-11-15 05:37:16,223 - Wood counted: 3 for wood piece Death_knot_100_255 with defect Death_knot
+2024-11-15 05:37:28,046 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 05:37:28,047 - [33mPress CTRL+C to quit[0m
+2024-11-15 05:37:28,623 - 192.168.1.3 - - [15/Nov/2024 05:37:28] "GET / HTTP/1.1" 200 -
+2024-11-15 05:37:35,618 - Wood counted: 1 for wood piece Death_knot_99_255 with defect Death_knot
+2024-11-15 05:37:41,718 - Wood counted: 2 for wood piece Death_knot_102_255 with defect Death_knot
+2024-11-15 05:37:51,415 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 05:37:51,415 - [33mPress CTRL+C to quit[0m
+2024-11-15 05:37:51,568 - 192.168.1.3 - - [15/Nov/2024 05:37:51] "GET / HTTP/1.1" 200 -
+2024-11-15 05:37:59,324 - Wood counted: 1 for wood piece Death_knot_312_24 with defect Death_knot
+2024-11-15 05:37:59,325 - Wood counted: 2 for wood piece Death_knot_160_160 with defect Death_knot
+2024-11-15 05:38:01,002 - Error on request:
+Traceback (most recent call last):
+  File "C:\Users\Meljune\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\serving.py", line 370, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Meljune\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\serving.py", line 333, in execute
+    for data in application_iter:
+  File "C:\Users\Meljune\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\wsgi.py", line 256, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "C:\Users\Meljune\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\wrappers\response.py", line 32, in _iter_encoded
+    for item in iterable:
+  File "F:\Documents\School Files\TIP Files\Design Project\Rpi 5 Application\inspecturaX\app.py", line 145, in generate_frames
+    cv2.putText(frame, f'Defects:', (2.5, start_y), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 0), 2)
+cv2.error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'putText'
+> Overload resolution failed:
+>  - Can't parse 'org'. Sequence item with index 0 has a wrong type
+>  - Can't parse 'org'. Sequence item with index 0 has a wrong type
+2024-11-15 05:38:04,727 - 192.168.1.3 - - [15/Nov/2024 05:38:04] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-15 05:38:04,733 - Error on request:
+Traceback (most recent call last):
+  File "C:\Users\Meljune\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\serving.py", line 370, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Meljune\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\serving.py", line 333, in execute
+    for data in application_iter:
+  File "C:\Users\Meljune\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\wsgi.py", line 256, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "C:\Users\Meljune\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\wrappers\response.py", line 32, in _iter_encoded
+    for item in iterable:
+  File "F:\Documents\School Files\TIP Files\Design Project\Rpi 5 Application\inspecturaX\app.py", line 145, in generate_frames
+    cv2.putText(frame, f'Defects:', (2.5, start_y), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 0), 2)
+cv2.error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'putText'
+> Overload resolution failed:
+>  - Can't parse 'org'. Sequence item with index 0 has a wrong type
+>  - Can't parse 'org'. Sequence item with index 0 has a wrong type
+2024-11-15 05:38:05,211 - Wood counted: 3 for wood piece Death_knot_311_24 with defect Death_knot
+2024-11-15 05:38:05,212 - Wood counted: 4 for wood piece Death_knot_180_166 with defect Death_knot
+2024-11-15 05:38:28,298 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 05:38:28,300 - [33mPress CTRL+C to quit[0m
+2024-11-15 05:38:31,867 - 192.168.1.3 - - [15/Nov/2024 05:38:31] "GET / HTTP/1.1" 200 -
+2024-11-15 05:38:46,148 - Wood counted: 1 for wood piece Death_knot_101_160 with defect Death_knot
+2024-11-15 05:38:46,789 - Error on request:
+Traceback (most recent call last):
+  File "C:\Users\Meljune\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\serving.py", line 370, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Meljune\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\serving.py", line 333, in execute
+    for data in application_iter:
+  File "C:\Users\Meljune\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\wsgi.py", line 256, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "C:\Users\Meljune\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\wrappers\response.py", line 32, in _iter_encoded
+    for item in iterable:
+  File "F:\Documents\School Files\TIP Files\Design Project\Rpi 5 Application\inspecturaX\app.py", line 145, in generate_frames
+    cv2.putText(frame, f'Defects:', (2.5, start_y), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 0), 2)
+cv2.error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'putText'
+> Overload resolution failed:
+>  - Can't parse 'org'. Sequence item with index 0 has a wrong type
+>  - Can't parse 'org'. Sequence item with index 0 has a wrong type
+2024-11-15 05:38:50,796 - Wood counted: 2 for wood piece Death_knot_125_165 with defect Death_knot
+2024-11-15 05:39:13,612 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 05:39:13,613 - [33mPress CTRL+C to quit[0m
+2024-11-15 05:39:13,712 - 192.168.1.3 - - [15/Nov/2024 05:39:13] "GET / HTTP/1.1" 200 -
+2024-11-15 05:39:31,408 - Wood counted: 1 for wood piece Death_knot_127_149 with defect Death_knot
+2024-11-15 05:39:35,791 - Wood counted: 2 for wood piece Death_knot_144_153 with defect Death_knot
+2024-11-15 05:39:40,155 - Wood counted: 3 for wood piece Death_knot_132_163 with defect Death_knot
+2024-11-15 05:39:46,241 - Wood counted: 4 for wood piece Death_knot_122_165 with defect Death_knot
+2024-11-15 05:40:31,636 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 05:40:31,636 - [33mPress CTRL+C to quit[0m
+2024-11-15 05:40:32,531 - 192.168.1.3 - - [15/Nov/2024 05:40:32] "GET / HTTP/1.1" 200 -
+2024-11-15 05:40:42,721 - Wood counted: 1 for wood piece Death_knot_150_118 with defect Death_knot
+2024-11-15 05:40:47,944 - Wood counted: 2 for wood piece Death_knot_160_133 with defect Death_knot
+2024-11-15 05:40:52,874 - Wood counted: 3 for wood piece Death_knot_152_150 with defect Death_knot
+2024-11-15 05:40:57,194 - Wood counted: 4 for wood piece Death_knot_311_20 with defect Death_knot
+2024-11-15 05:41:02,513 - Wood counted: 5 for wood piece Death_knot_176_195 with defect Death_knot

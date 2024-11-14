@@ -66,10 +66,10 @@ def prediction_thread():
             if 'predictions' in preds:
                 for pred in preds['predictions']:
                     confidence = pred['confidence']
-                    object_id = pred['class']  # Use class as ID for simplicity
-                    defect_name = "Death_knot"  # Change this to get the actual defect name
+                    object_id = pred['class']  # Use class as ID
+                    defect_name = object_id  # Use the class name directly as the defect name
 
-                    print(f'Object ID: {object_id}, Confidence: {confidence}')  # Debugging line
+                    print(f'Object ID: {object_id}, Confidence: {confidence}, Defect: {defect_name}')  # Debugging line
 
                     # Check if the prediction has sufficient confidence
                     if confidence >= 0.80:  # Only confidence level checked
@@ -127,19 +127,24 @@ def generate_frames():
 
         with lock:  # Acquire lock to read predictions safely
             # Display the total wood count on the frame
-            cv2.putText(frame, f'Total Wood Count: {wood_count}', (10, 25), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2)
+            cv2.putText(frame, f'Wood Count: {wood_count}', (10, 25), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2)
 
-            # Only show the most recent wood detection
+            # Check if there are detected woods
             if detected_woods:
                 recent_wood_id = next(reversed(detected_woods))  # Get the most recent wood piece
                 recent_data = detected_woods[recent_wood_id]
-                total_defects = sum(recent_data['defects'].values())  # Total defects for the most recent wood piece
-
-                # Display the wood number and total defects
+                
+                # Prepare defect info for display
+                defect_info = recent_data['defects']
                 wood_no = wood_count  # Use the total wood count as the current wood number
-                defect_info = ', '.join([f"{defect}: {count}" for defect, count in recent_data['defects'].items()])
-                cv2.putText(frame, f'Wood No. {wood_no}: {defect_info}', (10, frame.shape[0] - 10),
-                            cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 0), 2)
+
+                # Display wood number and defects
+                cv2.putText(frame, f'Wood No. {wood_no}', (3, 50), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 0), 2)
+                start_y = 70  # Starting Y position for defects display
+                for defect, count in defect_info.items():
+                    cv2.putText(frame, f'Defects:', (3, start_y), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 0), 2)
+                    cv2.putText(frame, f'{defect}: {count}', (3, start_y+15), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 0), 2)
+                    start_y += 15  # Move down for the next defect
 
             # Draw bounding boxes for all detected woods
             for pred in predictions:
@@ -160,13 +165,13 @@ def generate_frames():
 
         yield (b'--frame\r\n'
                b'Content-Type: image/jpeg\r\n\r\n' + frame + b'\r\n')
-
+        
 @app.route('/')
 def video_feed():
     return Response(generate_frames(), mimetype='multipart/x-mixed-replace; boundary=frame')
 
 if __name__ == '__main__':
-    # Run the Flask app
+    # Start the Flask app
     app.run(host='0.0.0.0', port=8080)
 
     # Cleanup
