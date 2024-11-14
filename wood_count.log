@@ -1,0 +1,523 @@
+2024-11-15 03:44:00,561 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 03:44:00,561 - [33mPress CTRL+C to quit[0m
+2024-11-15 03:44:10,218 - Wood counted: 1
+2024-11-15 03:44:23,784 - 192.168.1.3 - - [15/Nov/2024 03:44:23] "GET / HTTP/1.1" 200 -
+2024-11-15 03:53:29,816 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 03:53:29,817 - [33mPress CTRL+C to quit[0m
+2024-11-15 03:53:32,679 - Wood counted: 1
+2024-11-15 03:53:41,068 - Wood counted: 2
+2024-11-15 04:02:32,111 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 04:02:32,111 - [33mPress CTRL+C to quit[0m
+2024-11-15 04:02:44,935 - 192.168.1.3 - - [15/Nov/2024 04:02:44] "GET / HTTP/1.1" 200 -
+2024-11-15 04:06:16,182 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 04:06:16,183 - [33mPress CTRL+C to quit[0m
+2024-11-15 04:06:23,137 - 192.168.1.3 - - [15/Nov/2024 04:06:23] "GET / HTTP/1.1" 200 -
+2024-11-15 04:06:29,213 - Detected new object: Death_knot at 1731614789.2130725
+2024-11-15 04:06:30,610 - Detected new object: Death_knot at 1731614790.6109016
+2024-11-15 04:06:31,948 - Detected new object: Death_knot at 1731614791.9484632
+2024-11-15 04:06:34,619 - Detected new object: Death_knot at 1731614794.619917
+2024-11-15 04:06:36,111 - Detected new object: Death_knot at 1731614796.111494
+2024-11-15 04:06:38,494 - Detected new object: Death_knot at 1731614798.4941256
+2024-11-15 04:06:44,909 - 192.168.1.3 - - [15/Nov/2024 04:06:44] "GET / HTTP/1.1" 200 -
+2024-11-15 04:06:46,582 - Detected new object: Death_knot at 1731614806.5815823
+2024-11-15 04:06:48,012 - Detected new object: Death_knot at 1731614808.012169
+2024-11-15 04:06:50,422 - Detected new object: Death_knot at 1731614810.4224205
+2024-11-15 04:06:51,937 - Detected new object: Death_knot at 1731614811.937665
+2024-11-15 04:06:57,021 - Detected new object: Death_knot at 1731614817.0212638
+2024-11-15 04:06:58,293 - Detected new object: Death_knot at 1731614818.2931116
+2024-11-15 04:06:59,571 - Detected new object: Death_knot at 1731614819.5717988
+2024-11-15 04:07:00,841 - Detected new object: Death_knot at 1731614820.840118
+2024-11-15 04:07:02,100 - Detected new object: Death_knot at 1731614822.1003158
+2024-11-15 04:07:03,366 - Detected new object: Death_knot at 1731614823.3660831
+2024-11-15 04:07:07,038 - Detected new object: Death_knot at 1731614827.037729
+2024-11-15 04:08:31,041 - Detected new object: Death_knot at 1731614911.0412138
+2024-11-15 04:09:28,549 - Detected new object: Death_knot at 1731614968.549255
+2024-11-15 04:09:47,393 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 04:09:47,393 - [33mPress CTRL+C to quit[0m
+2024-11-15 04:09:48,019 - 192.168.1.3 - - [15/Nov/2024 04:09:48] "GET / HTTP/1.1" 200 -
+2024-11-15 04:09:49,066 - Detected new object: Death_knot at 1731614989.0664098
+2024-11-15 04:09:57,897 - Detected new object: Death_knot at 1731614997.897968
+2024-11-15 04:09:59,342 - Detected new object: Death_knot at 1731614999.3427217
+2024-11-15 04:10:02,198 - Detected new object: Death_knot at 1731615002.1980426
+2024-11-15 04:10:03,557 - Detected new object: Death_knot at 1731615003.5570083
+2024-11-15 04:10:04,887 - Detected new object: Death_knot at 1731615004.8874588
+2024-11-15 04:10:07,486 - Detected new object: Death_knot at 1731615007.4859104
+2024-11-15 04:10:08,906 - Detected new object: Death_knot at 1731615008.9068651
+2024-11-15 04:10:11,281 - Detected new object: Death_knot at 1731615011.281413
+2024-11-15 04:10:12,603 - Detected new object: Death_knot at 1731615012.6033814
+2024-11-15 04:13:25,799 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 04:13:25,799 - [33mPress CTRL+C to quit[0m
+2024-11-15 04:13:26,448 - 192.168.1.3 - - [15/Nov/2024 04:13:26] "GET / HTTP/1.1" 200 -
+2024-11-15 04:13:27,765 - Detected new object: Death_knot at 1731615207.7651136
+2024-11-15 04:13:43,181 - Detected new object: Death_knot at 1731615223.181729
+2024-11-15 04:13:44,737 - Detected new object: Death_knot at 1731615224.7364452
+2024-11-15 04:13:46,130 - Detected new object: Death_knot at 1731615226.1306598
+2024-11-15 04:13:51,345 - Detected new object: Death_knot at 1731615231.3459983
+2024-11-15 04:13:57,330 - Detected new object: Death_knot at 1731615237.3305376
+2024-11-15 04:14:56,081 - Detected new object: Death_knot at 1731615296.081439
+2024-11-15 04:15:34,914 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 04:15:34,914 - [33mPress CTRL+C to quit[0m
+2024-11-15 04:15:37,278 - Detected new object: Death_knot at 1731615337.2789567
+2024-11-15 04:15:38,530 - Detected new object: Death_knot at 1731615338.5306253
+2024-11-15 04:15:40,561 - Detected new object: Death_knot at 1731615340.5619001
+2024-11-15 04:15:42,880 - Detected new object: Death_knot at 1731615342.8804743
+2024-11-15 04:15:44,109 - Detected new object: Death_knot at 1731615344.1097631
+2024-11-15 04:15:46,075 - Detected new object: Death_knot at 1731615346.0759823
+2024-11-15 04:15:47,293 - Detected new object: Death_knot at 1731615347.2931974
+2024-11-15 04:15:48,488 - Detected new object: Death_knot at 1731615348.4881172
+2024-11-15 04:15:49,668 - Detected new object: Death_knot at 1731615349.6686866
+2024-11-15 04:15:50,905 - Detected new object: Death_knot at 1731615350.9056783
+2024-11-15 04:15:51,786 - 192.168.1.3 - - [15/Nov/2024 04:15:51] "GET / HTTP/1.1" 200 -
+2024-11-15 04:15:52,243 - Detected new object: Death_knot at 1731615352.243802
+2024-11-15 04:15:53,506 - Detected new object: Death_knot at 1731615353.5063968
+2024-11-15 04:15:55,507 - Detected new object: Death_knot at 1731615355.5074513
+2024-11-15 04:15:57,647 - Detected new object: Death_knot at 1731615357.6471336
+2024-11-15 04:15:59,292 - Detected new object: Death_knot at 1731615359.2923017
+2024-11-15 04:17:15,929 - Detected new object: Death_knot at 1731615435.9297717
+2024-11-15 04:17:58,947 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 04:17:58,948 - [33mPress CTRL+C to quit[0m
+2024-11-15 04:18:03,124 - 192.168.1.3 - - [15/Nov/2024 04:18:03] "GET / HTTP/1.1" 200 -
+2024-11-15 04:18:18,031 - Detected new object: Death_knot at 1731615498.0313091
+2024-11-15 04:18:21,661 - Detected new object: Death_knot at 1731615501.6618109
+2024-11-15 04:18:25,656 - Detected new object: Death_knot at 1731615505.656043
+2024-11-15 04:18:27,026 - Detected new object: Death_knot at 1731615507.0267313
+2024-11-15 04:18:29,516 - Detected new object: Death_knot at 1731615509.5167072
+2024-11-15 04:18:31,419 - Detected new object: Death_knot at 1731615511.4194999
+2024-11-15 04:18:33,646 - Detected new object: Death_knot at 1731615513.6457615
+2024-11-15 04:18:35,621 - Detected new object: Death_knot at 1731615515.6215296
+2024-11-15 04:18:38,295 - Detected new object: Death_knot at 1731615518.2959583
+2024-11-15 04:22:07,261 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 04:22:07,262 - [33mPress CTRL+C to quit[0m
+2024-11-15 04:22:09,974 - Detected new object: Death_knot at 1731615729.97424
+2024-11-15 04:22:12,989 - Detected new object: Death_knot at 1731615732.9895337
+2024-11-15 04:22:15,861 - Detected new object: Death_knot at 1731615735.8610506
+2024-11-15 04:22:18,334 - Detected new object: Death_knot at 1731615738.3343434
+2024-11-15 04:22:18,335 - Detected new object: Death_knot at 1731615738.3356082
+2024-11-15 04:22:20,134 - Detected new object: Death_knot at 1731615740.1341603
+2024-11-15 04:22:21,467 - Detected new object: Death_knot at 1731615741.4673078
+2024-11-15 04:22:21,469 - Detected new object: Death_knot at 1731615741.4690418
+2024-11-15 04:22:22,757 - Detected new object: Death_knot at 1731615742.7573526
+2024-11-15 04:22:24,064 - Detected new object: Death_knot at 1731615744.0644777
+2024-11-15 04:22:25,355 - Detected new object: Death_knot at 1731615745.355073
+2024-11-15 04:22:26,601 - Detected new object: Death_knot at 1731615746.6014464
+2024-11-15 04:22:27,847 - Detected new object: Death_knot at 1731615747.847275
+2024-11-15 04:22:29,154 - Detected new object: Death_knot at 1731615749.1545844
+2024-11-15 04:22:30,425 - Detected new object: Death_knot at 1731615750.425937
+2024-11-15 04:22:31,671 - Detected new object: Death_knot at 1731615751.671359
+2024-11-15 04:22:32,859 - Detected new object: Death_knot at 1731615752.859769
+2024-11-15 04:22:34,851 - Detected new object: Death_knot at 1731615754.8510063
+2024-11-15 04:22:40,695 - Detected new object: Death_knot at 1731615760.6952684
+2024-11-15 04:22:43,202 - Detected new object: Death_knot at 1731615763.2022977
+2024-11-15 04:22:45,106 - Detected new object: Death_knot at 1731615765.1065214
+2024-11-15 04:22:46,378 - Detected new object: Death_knot at 1731615766.3781574
+2024-11-15 04:22:48,925 - Detected new object: Death_knot at 1731615768.9256542
+2024-11-15 04:22:50,183 - Detected new object: Death_knot at 1731615770.1836762
+2024-11-15 04:22:52,240 - Detected new object: Death_knot at 1731615772.2409182
+2024-11-15 04:22:54,198 - Detected new object: Death_knot at 1731615774.198486
+2024-11-15 04:22:55,566 - Detected new object: Death_knot at 1731615775.566562
+2024-11-15 04:22:58,629 - Detected new object: Death_knot at 1731615778.6297526
+2024-11-15 04:23:00,994 - Detected new object: Death_knot at 1731615780.99489
+2024-11-15 04:23:02,943 - Detected new object: Death_knot at 1731615782.9421475
+2024-11-15 04:23:04,861 - Detected new object: Death_knot at 1731615784.8613024
+2024-11-15 04:23:06,738 - Detected new object: Death_knot at 1731615786.7385843
+2024-11-15 04:23:08,025 - Detected new object: Death_knot at 1731615788.0255077
+2024-11-15 04:23:09,933 - Detected new object: Death_knot at 1731615789.9331293
+2024-11-15 04:23:11,175 - Detected new object: Death_knot at 1731615791.1753163
+2024-11-15 04:23:13,301 - Detected new object: Death_knot at 1731615793.3014722
+2024-11-15 04:23:14,522 - Detected new object: Death_knot at 1731615794.5222602
+2024-11-15 04:23:15,808 - Detected new object: Death_knot at 1731615795.808918
+2024-11-15 04:23:19,312 - Detected new object: Death_knot at 1731615799.312672
+2024-11-15 04:23:20,844 - Detected new object: Death_knot at 1731615800.8441346
+2024-11-15 04:23:23,031 - Detected new object: Death_knot at 1731615803.0312748
+2024-11-15 04:23:24,321 - Detected new object: Death_knot at 1731615804.3217506
+2024-11-15 04:23:26,680 - Detected new object: Death_knot at 1731615806.6800344
+2024-11-15 04:23:27,875 - Detected new object: Death_knot at 1731615807.8750443
+2024-11-15 04:23:29,083 - Detected new object: Death_knot at 1731615809.0832176
+2024-11-15 04:23:31,389 - Detected new object: Death_knot at 1731615811.3890367
+2024-11-15 04:23:33,164 - Detected new object: Death_knot at 1731615813.1649654
+2024-11-15 04:23:34,633 - Detected new object: Death_knot at 1731615814.633378
+2024-11-15 04:23:35,830 - Detected new object: Death_knot at 1731615815.8307736
+2024-11-15 04:23:37,063 - Detected new object: Death_knot at 1731615817.0631483
+2024-11-15 04:23:39,056 - Detected new object: Death_knot at 1731615819.056693
+2024-11-15 04:23:40,825 - Detected new object: Death_knot at 1731615820.8253405
+2024-11-15 04:23:42,829 - Detected new object: Death_knot at 1731615822.8291562
+2024-11-15 04:23:44,639 - Detected new object: Death_knot at 1731615824.6398094
+2024-11-15 04:23:46,404 - Detected new object: Death_knot at 1731615826.4045796
+2024-11-15 04:23:47,887 - Detected new object: Death_knot at 1731615827.8878481
+2024-11-15 04:23:50,222 - Detected new object: Death_knot at 1731615830.2222512
+2024-11-15 04:23:52,034 - Detected new object: Death_knot at 1731615832.034156
+2024-11-15 04:23:53,260 - Detected new object: Death_knot at 1731615833.2603908
+2024-11-15 04:23:55,190 - Detected new object: Death_knot at 1731615835.1905684
+2024-11-15 04:23:56,472 - Detected new object: Death_knot at 1731615836.4711637
+2024-11-15 04:23:58,829 - Detected new object: Death_knot at 1731615838.8291426
+2024-11-15 04:24:00,219 - Detected new object: Death_knot at 1731615840.2192428
+2024-11-15 04:24:01,666 - Detected new object: Death_knot at 1731615841.6662328
+2024-11-15 04:24:02,908 - Detected new object: Death_knot at 1731615842.908926
+2024-11-15 04:24:04,186 - Detected new object: Death_knot at 1731615844.1861417
+2024-11-15 04:24:05,503 - Detected new object: Death_knot at 1731615845.5035827
+2024-11-15 04:24:07,500 - Detected new object: Death_knot at 1731615847.5008895
+2024-11-15 04:24:09,125 - Detected new object: Death_knot at 1731615849.1254637
+2024-11-15 04:24:19,163 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 04:24:19,163 - [33mPress CTRL+C to quit[0m
+2024-11-15 04:24:20,536 - Wood counted: 1 for object Death_knot at 1731615860.536616
+2024-11-15 04:24:41,985 - 192.168.1.3 - - [15/Nov/2024 04:24:41] "GET / HTTP/1.1" 200 -
+2024-11-15 04:25:09,313 - Wood counted: 2 for object resin at 1731615909.313053
+2024-11-15 04:30:19,101 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 04:30:19,102 - [33mPress CTRL+C to quit[0m
+2024-11-15 04:30:33,402 - 192.168.1.3 - - [15/Nov/2024 04:30:33] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-15 04:30:33,435 - Error on request:
+Traceback (most recent call last):
+  File "C:\Users\Meljune\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\serving.py", line 370, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Meljune\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\serving.py", line 333, in execute
+    for data in application_iter:
+  File "C:\Users\Meljune\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\wsgi.py", line 256, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "C:\Users\Meljune\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\wrappers\response.py", line 32, in _iter_encoded
+    for item in iterable:
+  File "F:\Documents\School Files\TIP Files\Design Project\Rpi 5 Application\inspecturaX\app.py", line 113, in generate_frames
+    x1, y1, x2, y2 = ROI
+                     ^^^
+NameError: name 'ROI' is not defined
+2024-11-15 04:30:34,989 - 192.168.1.3 - - [15/Nov/2024 04:30:34] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-15 04:30:35,000 - Error on request:
+Traceback (most recent call last):
+  File "C:\Users\Meljune\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\serving.py", line 370, in run_wsgi
+    execute(self.server.app)
+  File "C:\Users\Meljune\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\serving.py", line 333, in execute
+    for data in application_iter:
+  File "C:\Users\Meljune\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\wsgi.py", line 256, in __next__
+    return self._next()
+           ^^^^^^^^^^^^
+  File "C:\Users\Meljune\AppData\Local\Programs\Python\Python311\Lib\site-packages\werkzeug\wrappers\response.py", line 32, in _iter_encoded
+    for item in iterable:
+  File "F:\Documents\School Files\TIP Files\Design Project\Rpi 5 Application\inspecturaX\app.py", line 113, in generate_frames
+    x1, y1, x2, y2 = ROI
+                     ^^^
+NameError: name 'ROI' is not defined
+2024-11-15 04:30:53,571 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 04:30:53,571 - [33mPress CTRL+C to quit[0m
+2024-11-15 04:30:56,017 - Defect detected: 1 for wood piece wood_piece
+2024-11-15 04:32:29,210 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 04:32:29,210 - [33mPress CTRL+C to quit[0m
+2024-11-15 04:32:33,517 - 192.168.1.3 - - [15/Nov/2024 04:32:33] "GET / HTTP/1.1" 200 -
+2024-11-15 04:32:36,609 - Defect detected: 1 for wood piece wood_piece
+2024-11-15 04:35:23,511 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 04:35:23,511 - [33mPress CTRL+C to quit[0m
+2024-11-15 04:35:36,747 - 192.168.1.3 - - [15/Nov/2024 04:35:36] "GET / HTTP/1.1" 200 -
+2024-11-15 04:35:37,412 - Wood counted: 1 for wood piece wood_piece
+2024-11-15 04:38:14,681 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 04:38:14,682 - [33mPress CTRL+C to quit[0m
+2024-11-15 04:38:15,066 - Wood counted: 1 for wood piece resin_159_276
+2024-11-15 04:38:16,368 - Wood counted: 2 for wood piece resin_160_276
+2024-11-15 04:38:18,952 - Wood counted: 3 for wood piece resin_161_276
+2024-11-15 04:38:24,143 - Wood counted: 4 for wood piece Death_knot_162_278
+2024-11-15 04:38:25,383 - Wood counted: 5 for wood piece resin_160_277
+2024-11-15 04:38:26,607 - Wood counted: 6 for wood piece resin_161_277
+2024-11-15 04:38:27,611 - 192.168.1.3 - - [15/Nov/2024 04:38:27] "GET / HTTP/1.1" 200 -
+2024-11-15 04:38:29,046 - Wood counted: 7 for wood piece resin_162_277
+2024-11-15 04:38:37,996 - Wood counted: 8 for wood piece Death_knot_275_140
+2024-11-15 04:38:40,268 - Wood counted: 9 for wood piece Death_knot_292_152
+2024-11-15 04:38:41,643 - Wood counted: 10 for wood piece Death_knot_299_170
+2024-11-15 04:38:43,954 - Wood counted: 11 for wood piece Death_knot_283_125
+2024-11-15 04:38:45,223 - Wood counted: 12 for wood piece Death_knot_306_152
+2024-11-15 04:38:46,476 - Wood counted: 13 for wood piece Death_knot_312_160
+2024-11-15 04:38:55,142 - Wood counted: 14 for wood piece Death_knot_311_23
+2024-11-15 04:38:55,143 - Wood counted: 15 for wood piece Death_knot_181_24
+2024-11-15 04:39:14,199 - Wood counted: 16 for wood piece Death_knot_125_162
+2024-11-15 04:39:15,712 - Wood counted: 17 for wood piece Death_knot_131_140
+2024-11-15 04:39:17,100 - Wood counted: 18 for wood piece Death_knot_152_144
+2024-11-15 04:39:18,425 - Wood counted: 19 for wood piece Death_knot_174_165
+2024-11-15 04:39:19,780 - Wood counted: 20 for wood piece Death_knot_167_160
+2024-11-15 04:39:23,801 - Wood counted: 21 for wood piece Death_knot_105_255
+2024-11-15 04:39:26,031 - Wood counted: 22 for wood piece Death_knot_107_255
+2024-11-15 04:39:26,032 - Wood counted: 23 for wood piece Death_knot_310_27
+2024-11-15 04:39:27,464 - Wood counted: 24 for wood piece Death_knot_108_256
+2024-11-15 04:39:35,129 - Wood counted: 25 for wood piece Death_knot_110_256
+2024-11-15 04:39:36,437 - Wood counted: 26 for wood piece Death_knot_109_256
+2024-11-15 04:39:37,684 - Wood counted: 27 for wood piece Death_knot_111_256
+2024-11-15 04:39:44,642 - Wood counted: 28 for wood piece Death_knot_112_256
+2024-11-15 04:39:44,642 - Wood counted: 29 for wood piece Death_knot_309_27
+2024-11-15 04:39:54,420 - Wood counted: 30 for wood piece Death_knot_310_28
+2024-11-15 04:39:57,941 - Wood counted: 31 for wood piece Death_knot_114_256
+2024-11-15 04:40:00,667 - Wood counted: 32 for wood piece Death_knot_115_256
+2024-11-15 04:40:05,703 - Wood counted: 33 for wood piece Death_knot_115_255
+2024-11-15 04:40:20,746 - Wood counted: 34 for wood piece Death_knot_114_255
+2024-11-15 04:40:22,058 - Wood counted: 35 for wood piece Death_knot_117_254
+2024-11-15 04:40:23,396 - Wood counted: 36 for wood piece Death_knot_118_254
+2024-11-15 04:40:25,968 - Wood counted: 37 for wood piece Death_knot_117_253
+2024-11-15 04:40:28,633 - Wood counted: 38 for wood piece Death_knot_116_255
+2024-11-15 04:40:32,923 - Wood counted: 39 for wood piece Death_knot_116_254
+2024-11-15 04:40:34,289 - Wood counted: 40 for wood piece Death_knot_117_255
+2024-11-15 04:40:35,673 - Wood counted: 41 for wood piece Death_knot_118_255
+2024-11-15 04:40:37,053 - Wood counted: 42 for wood piece Death_knot_309_28
+2024-11-15 04:40:42,501 - Wood counted: 43 for wood piece Death_knot_119_254
+2024-11-15 04:40:49,191 - Wood counted: 44 for wood piece Death_knot_120_254
+2024-11-15 04:41:06,824 - Wood counted: 45 for wood piece Death_knot_118_253
+2024-11-15 04:41:11,043 - Wood counted: 46 for wood piece resin_173_276
+2024-11-15 04:41:11,043 - Wood counted: 47 for wood piece resin_318_278
+2024-11-15 04:41:12,462 - Wood counted: 48 for wood piece resin_166_277
+2024-11-15 04:41:14,607 - Wood counted: 49 for wood piece resin_155_278
+2024-11-15 04:41:15,987 - Wood counted: 50 for wood piece resin_156_275
+2024-11-15 04:41:17,313 - Wood counted: 51 for wood piece resin_155_275
+2024-11-15 04:41:18,804 - Wood counted: 52 for wood piece Death_knot_108_255
+2024-11-15 04:41:18,806 - Wood counted: 53 for wood piece resin_167_271
+2024-11-15 04:41:28,641 - Wood counted: 54 for wood piece resin_166_274
+2024-11-15 04:41:30,005 - Wood counted: 55 for wood piece resin_164_275
+2024-11-15 04:41:31,399 - Wood counted: 56 for wood piece resin_166_276
+2024-11-15 04:41:31,400 - Wood counted: 57 for wood piece Death_knot_306_179
+2024-11-15 04:41:36,975 - Wood counted: 58 for wood piece resin_165_275
+2024-11-15 04:41:39,713 - Wood counted: 59 for wood piece resin_164_276
+2024-11-15 04:41:42,102 - Wood counted: 60 for wood piece resin_165_276
+2024-11-15 04:41:53,764 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 04:41:53,765 - [33mPress CTRL+C to quit[0m
+2024-11-15 04:41:54,098 - Wood counted: 1 for wood piece Death_knot_113_256
+2024-11-15 04:42:07,036 - 192.168.1.3 - - [15/Nov/2024 04:42:07] "GET / HTTP/1.1" 200 -
+2024-11-15 04:42:07,541 - Wood counted: 2 for wood piece Death_knot_109_255
+2024-11-15 04:42:24,448 - Wood counted: 3 for wood piece Death_knot_138_155
+2024-11-15 04:42:29,344 - Wood counted: 4 for wood piece Death_knot_160_153
+2024-11-15 04:42:34,122 - Wood counted: 5 for wood piece Death_knot_216_191
+2024-11-15 04:42:38,352 - Wood counted: 6 for wood piece Death_knot_138_120
+2024-11-15 04:42:46,885 - Wood counted: 7 for wood piece Death_knot_168_161
+2024-11-15 04:43:29,208 - Wood counted: 8 for wood piece Death_knot_115_256
+2024-11-15 04:43:34,333 - Wood counted: 9 for wood piece Death_knot_115_255
+2024-11-15 04:43:38,718 - Wood counted: 10 for wood piece Death_knot_114_255
+2024-11-15 04:43:43,789 - Wood counted: 11 for wood piece Death_knot_116_256
+2024-11-15 04:43:52,909 - Wood counted: 12 for wood piece Death_knot_116_255
+2024-11-15 04:44:02,715 - Wood counted: 13 for wood piece Death_knot_119_256
+2024-11-15 04:44:06,957 - Wood counted: 14 for wood piece Death_knot_118_256
+2024-11-15 04:44:26,151 - Wood counted: 15 for wood piece Death_knot_117_255
+2024-11-15 04:44:34,709 - Wood counted: 16 for wood piece Death_knot_117_256
+2024-11-15 04:44:53,899 - Wood counted: 17 for wood piece Death_knot_119_254
+2024-11-15 04:44:53,899 - Wood counted: 18 for wood piece Death_knot_310_27
+2024-11-15 04:44:58,173 - Wood counted: 19 for wood piece Death_knot_118_255
+2024-11-15 04:45:40,973 - Wood counted: 20 for wood piece Death_knot_114_256
+2024-11-15 04:46:41,007 - Wood counted: 21 for wood piece Death_knot_310_28
+2024-11-15 04:47:50,228 - Wood counted: 22 for wood piece Death_knot_108_256
+2024-11-15 04:48:49,340 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 04:48:49,341 - [33mPress CTRL+C to quit[0m
+2024-11-15 04:48:50,559 - 192.168.1.3 - - [15/Nov/2024 04:48:50] "GET / HTTP/1.1" 200 -
+2024-11-15 04:49:01,345 - Wood counted: 1 for wood piece Death_knot_288_176 with defect Death_knot
+2024-11-15 04:49:06,399 - Wood counted: 2 for wood piece Death_knot_281_163 with defect Death_knot
+2024-11-15 04:49:06,400 - Wood counted: 3 for wood piece Death_knot_310_25 with defect Death_knot
+2024-11-15 04:49:10,711 - Wood counted: 4 for wood piece Death_knot_289_169 with defect Death_knot
+2024-11-15 04:49:10,712 - Wood counted: 5 for wood piece Death_knot_311_24 with defect Death_knot
+2024-11-15 04:49:21,115 - Wood counted: 6 for wood piece Death_knot_119_254 with defect Death_knot
+2024-11-15 04:49:30,198 - Wood counted: 7 for wood piece Death_knot_116_256 with defect Death_knot
+2024-11-15 04:49:30,200 - Wood counted: 8 for wood piece Death_knot_309_27 with defect Death_knot
+2024-11-15 04:49:39,678 - Wood counted: 9 for wood piece Death_knot_114_256 with defect Death_knot
+2024-11-15 04:49:44,640 - Wood counted: 10 for wood piece Death_knot_119_256 with defect Death_knot
+2024-11-15 04:49:48,925 - Wood counted: 11 for wood piece Death_knot_120_256 with defect Death_knot
+2024-11-15 04:49:53,431 - Wood counted: 12 for wood piece Death_knot_119_255 with defect Death_knot
+2024-11-15 04:50:09,593 - Wood counted: 13 for wood piece Death_knot_310_28 with defect Death_knot
+2024-11-15 04:50:14,526 - Wood counted: 14 for wood piece Death_knot_117_256 with defect Death_knot
+2024-11-15 04:50:18,821 - Wood counted: 15 for wood piece Death_knot_118_256 with defect Death_knot
+2024-11-15 04:50:29,080 - Wood counted: 16 for wood piece Death_knot_115_256 with defect Death_knot
+2024-11-15 04:50:49,031 - Wood counted: 17 for wood piece Death_knot_118_255 with defect Death_knot
+2024-11-15 04:50:53,855 - Wood counted: 18 for wood piece Death_knot_108_255 with defect Death_knot
+2024-11-15 04:51:03,928 - 192.168.1.3 - - [15/Nov/2024 04:51:03] "GET / HTTP/1.1" 200 -
+2024-11-15 04:51:04,359 - Wood counted: 19 for wood piece Death_knot_115_255 with defect Death_knot
+2024-11-15 04:51:09,585 - Wood counted: 20 for wood piece Death_knot_114_255 with defect Death_knot
+2024-11-15 04:52:03,426 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 04:52:03,426 - [33mPress CTRL+C to quit[0m
+2024-11-15 04:52:05,904 - Wood counted: 1 for wood piece Death_knot_115_256 with defect Death_knot
+2024-11-15 04:52:10,110 - Wood counted: 2 for wood piece Death_knot_115_254 with defect Death_knot
+2024-11-15 04:52:14,354 - 192.168.1.3 - - [15/Nov/2024 04:52:14] "GET / HTTP/1.1" 200 -
+2024-11-15 04:52:14,974 - Wood counted: 3 for wood piece Death_knot_116_254 with defect Death_knot
+2024-11-15 04:52:23,782 - Wood counted: 4 for wood piece Death_knot_113_255 with defect Death_knot
+2024-11-15 04:52:33,241 - Wood counted: 5 for wood piece Death_knot_113_256 with defect Death_knot
+2024-11-15 04:52:42,583 - Wood counted: 6 for wood piece Death_knot_114_255 with defect Death_knot
+2024-11-15 04:52:56,854 - Wood counted: 7 for wood piece Death_knot_114_256 with defect Death_knot
+2024-11-15 04:53:06,998 - Wood counted: 8 for wood piece Death_knot_116_255 with defect Death_knot
+2024-11-15 04:53:16,470 - Wood counted: 9 for wood piece Death_knot_115_255 with defect Death_knot
+2024-11-15 04:53:25,695 - Wood counted: 10 for wood piece Death_knot_116_256 with defect Death_knot
+2024-11-15 04:53:58,552 - Wood counted: 11 for wood piece Death_knot_117_253 with defect Death_knot
+2024-11-15 04:54:09,976 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 04:54:09,976 - [33mPress CTRL+C to quit[0m
+2024-11-15 04:54:11,165 - Wood counted: 1 for wood piece Death_knot_109_256 with defect Death_knot
+2024-11-15 04:54:11,166 - Wood counted: 2 for wood piece Death_knot_309_27 with defect Death_knot
+2024-11-15 04:54:14,951 - 192.168.1.3 - - [15/Nov/2024 04:54:14] "GET / HTTP/1.1" 200 -
+2024-11-15 04:54:16,361 - Wood counted: 3 for wood piece Death_knot_112_255 with defect Death_knot
+2024-11-15 04:54:26,192 - Wood counted: 4 for wood piece Death_knot_115_256 with defect Death_knot
+2024-11-15 04:54:31,463 - Wood counted: 5 for wood piece Death_knot_113_256 with defect Death_knot
+2024-11-15 04:54:36,386 - Wood counted: 6 for wood piece Death_knot_114_256 with defect Death_knot
+2024-11-15 04:54:51,850 - Wood counted: 7 for wood piece Death_knot_113_255 with defect Death_knot
+2024-11-15 04:55:02,017 - Wood counted: 8 for wood piece Death_knot_114_255 with defect Death_knot
+2024-11-15 04:55:07,562 - Wood counted: 9 for wood piece Death_knot_115_255 with defect Death_knot
+2024-11-15 04:55:34,080 - Wood counted: 10 for wood piece Death_knot_116_256 with defect Death_knot
+2024-11-15 04:55:38,380 - Wood counted: 11 for wood piece Death_knot_116_254 with defect Death_knot
+2024-11-15 04:55:43,278 - Wood counted: 12 for wood piece Death_knot_116_255 with defect Death_knot
+2024-11-15 04:55:49,343 - Wood counted: 13 for wood piece Death_knot_117_254 with defect Death_knot
+2024-11-15 04:55:54,278 - Wood counted: 14 for wood piece Death_knot_119_255 with defect Death_knot
+2024-11-15 04:55:59,197 - Wood counted: 15 for wood piece Death_knot_118_255 with defect Death_knot
+2024-11-15 04:56:13,207 - Wood counted: 16 for wood piece Death_knot_121_254 with defect Death_knot
+2024-11-15 04:56:24,283 - Wood counted: 17 for wood piece Death_knot_106_255 with defect Death_knot
+2024-11-15 04:56:55,266 - Wood counted: 18 for wood piece Death_knot_114_254 with defect Death_knot
+2024-11-15 04:57:09,272 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 04:57:09,272 - [33mPress CTRL+C to quit[0m
+2024-11-15 04:57:09,447 - 192.168.1.3 - - [15/Nov/2024 04:57:09] "GET / HTTP/1.1" 200 -
+2024-11-15 04:57:10,271 - Wood counted: 1 for wood piece Death_knot_113_256 with defect Death_knot
+2024-11-15 04:57:22,173 - Wood counted: 2 for wood piece Death_knot_115_256 with defect Death_knot
+2024-11-15 04:57:26,453 - Wood counted: 3 for wood piece Death_knot_115_255 with defect Death_knot
+2024-11-15 04:57:31,566 - Wood counted: 4 for wood piece Death_knot_116_255 with defect Death_knot
+2024-11-15 04:57:44,485 - Wood counted: 5 for wood piece Death_knot_118_256 with defect Death_knot
+2024-11-15 04:57:44,486 - Wood counted: 6 for wood piece Death_knot_310_27 with defect Death_knot
+2024-11-15 04:57:49,868 - Wood counted: 7 for wood piece Death_knot_116_256 with defect Death_knot
+2024-11-15 04:58:00,431 - Wood counted: 8 for wood piece Death_knot_112_256 with defect Death_knot
+2024-11-15 04:58:10,416 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 04:58:10,416 - [33mPress CTRL+C to quit[0m
+2024-11-15 04:58:11,757 - 192.168.1.3 - - [15/Nov/2024 04:58:11] "GET / HTTP/1.1" 200 -
+2024-11-15 04:58:15,285 - Wood counted: 1 for wood piece Death_knot_102_254 with defect Death_knot
+2024-11-15 04:58:15,286 - Wood counted: 2 for wood piece resin_147_275 with defect Death_knot
+2024-11-15 04:58:19,602 - Wood counted: 3 for wood piece Death_knot_109_255 with defect Death_knot
+2024-11-15 04:58:24,837 - Wood counted: 4 for wood piece Death_knot_104_255 with defect Death_knot
+2024-11-15 04:59:13,055 - Wood counted: 5 for wood piece Death_knot_230_211 with defect Death_knot
+2024-11-15 04:59:46,627 - Wood counted: 6 for wood piece Death_knot_97_251 with defect Death_knot
+2024-11-15 04:59:51,027 - Wood counted: 7 for wood piece Death_knot_97_246 with defect Death_knot
+2024-11-15 05:00:02,908 - Wood counted: 8 for wood piece Death_knot_310_28 with defect Death_knot
+2024-11-15 05:00:02,909 - Wood counted: 9 for wood piece Death_knot_106_254 with defect Death_knot
+2024-11-15 05:00:42,532 - Wood counted: 10 for wood piece resin_307_275 with defect Death_knot
+2024-11-15 05:01:26,677 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 05:01:26,677 - [33mPress CTRL+C to quit[0m
+2024-11-15 05:01:32,734 - 192.168.1.3 - - [15/Nov/2024 05:01:32] "GET / HTTP/1.1" 200 -
+2024-11-15 05:01:53,380 - Wood counted: 1 for wood piece Death_knot_119_156 with defect Death_knot
+2024-11-15 05:02:54,924 - Wood counted: 2 for wood piece resin_310_275 with defect Death_knot
+2024-11-15 05:03:12,410 - Wood counted: 3 for wood piece Death_knot_171_39 with defect Death_knot
+2024-11-15 05:03:36,901 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 05:03:36,901 - [33mPress CTRL+C to quit[0m
+2024-11-15 05:03:37,180 - 192.168.1.3 - - [15/Nov/2024 05:03:37] "GET / HTTP/1.1" 200 -
+2024-11-15 05:03:54,787 - Wood counted: 1 for wood piece Death_knot_121_160 with defect Death_knot
+2024-11-15 05:03:59,162 - Wood counted: 2 for wood piece Death_knot_141_147 with defect Death_knot
+2024-11-15 05:04:03,486 - Wood counted: 3 for wood piece Death_knot_145_161 with defect Death_knot
+2024-11-15 05:04:07,828 - Wood counted: 4 for wood piece Death_knot_143_165 with defect Death_knot
+2024-11-15 05:04:39,050 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 05:04:39,050 - [33mPress CTRL+C to quit[0m
+2024-11-15 05:04:39,941 - 192.168.1.3 - - [15/Nov/2024 05:04:39] "GET / HTTP/1.1" 200 -
+2024-11-15 05:04:45,676 - Wood counted: 1 for wood piece Death_knot_286_173 with defect Death_knot
+2024-11-15 05:04:45,677 - Wood counted: 2 for wood piece Death_knot_311_23 with defect Death_knot
+2024-11-15 05:04:56,600 - Wood counted: 3 for wood piece Death_knot_314_151 with defect Death_knot
+2024-11-15 05:05:08,229 - Wood counted: 4 for wood piece Death_knot_120_156 with defect Death_knot
+2024-11-15 05:05:13,685 - Wood counted: 5 for wood piece Death_knot_140_161 with defect Death_knot
+2024-11-15 05:05:18,795 - Wood counted: 6 for wood piece Death_knot_313_44 with defect Death_knot
+2024-11-15 05:05:24,227 - Wood counted: 7 for wood piece Death_knot_309_27 with defect Death_knot
+2024-11-15 05:05:29,917 - Wood counted: 8 for wood piece Death_knot_310_27 with defect Death_knot
+2024-11-15 05:05:56,370 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 05:05:56,370 - [33mPress CTRL+C to quit[0m
+2024-11-15 05:05:56,549 - 192.168.1.3 - - [15/Nov/2024 05:05:56] "GET / HTTP/1.1" 200 -
+2024-11-15 05:06:04,162 - Wood counted: 1 for wood piece Death_knot_138_150 with defect Death_knot
+2024-11-15 05:06:15,038 - Wood counted: 2 for wood piece Death_knot_150_163 with defect Death_knot
+2024-11-15 05:06:21,120 - Wood counted: 3 for wood piece Death_knot_139_188 with defect Death_knot
+2024-11-15 05:06:26,020 - Wood counted: 4 for wood piece Death_knot_149_153 with defect Death_knot
+2024-11-15 05:06:31,350 - Wood counted: 5 for wood piece Death_knot_138_155 with defect Death_knot
+2024-11-15 05:06:45,175 - Wood counted: 6 for wood piece Death_knot_310_27 with defect Death_knot
+2024-11-15 05:06:55,618 - Wood counted: 7 for wood piece Death_knot_309_27 with defect Death_knot
+2024-11-15 05:06:59,990 - Wood counted: 8 for wood piece Death_knot_310_26 with defect Death_knot
+2024-11-15 05:08:56,172 - Wood counted: 9 for wood piece Death_knot_99_256 with defect Death_knot
+2024-11-15 05:09:58,987 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 05:09:58,989 - [33mPress CTRL+C to quit[0m
+2024-11-15 05:10:09,552 - 192.168.1.3 - - [15/Nov/2024 05:10:09] "GET / HTTP/1.1" 200 -
+2024-11-15 05:10:16,156 - Wood counted: 1 for wood piece Death_knot_15_230 with defect Death_knot
+2024-11-15 05:10:26,548 - Wood counted: 2 for wood piece Death_knot_289_153 with defect Death_knot
+2024-11-15 05:10:30,992 - Wood counted: 3 for wood piece Death_knot_310_26 with defect Death_knot
+2024-11-15 05:10:35,912 - Wood counted: 4 for wood piece Death_knot_126_150 with defect Death_knot
+2024-11-15 05:12:53,987 - Wood counted: 5 for wood piece Death_knot_171_39 with defect Death_knot
+2024-11-15 05:13:24,301 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-15 05:13:24,301 - [33mPress CTRL+C to quit[0m
+2024-11-15 05:13:24,499 - 192.168.1.3 - - [15/Nov/2024 05:13:24] "GET / HTTP/1.1" 200 -
+2024-11-15 05:13:37,901 - Wood counted: 1 for wood piece Death_knot_168_153 with defect Death_knot
+2024-11-15 05:13:57,099 - Wood counted: 2 for wood piece Death_knot_171_39 with defect Death_knot
+2024-11-15 05:14:01,456 - Wood counted: 3 for wood piece resin_188_271 with defect Death_knot
+2024-11-15 05:14:15,788 - Wood counted: 4 for wood piece resin_187_273 with defect Death_knot
+2024-11-15 05:14:24,422 - Wood counted: 5 for wood piece resin_176_275 with defect Death_knot
+2024-11-15 05:14:24,422 - Wood counted: 6 for wood piece resin_312_276 with defect Death_knot
+2024-11-15 05:14:24,423 - Wood counted: 7 for wood piece Death_knot_104_256 with defect Death_knot
+2024-11-15 05:14:43,650 - Wood counted: 8 for wood piece Death_knot_172_39 with defect Death_knot
+2024-11-15 05:15:15,293 - Wood counted: 9 for wood piece resin_166_278 with defect Death_knot
+2024-11-15 05:16:09,132 - Wood counted: 10 for wood piece resin_300_275 with defect Death_knot
+2024-11-15 05:16:17,995 - Wood counted: 11 for wood piece resin_300_276 with defect Death_knot
+2024-11-15 05:16:31,241 - Wood counted: 12 for wood piece resin_166_275 with defect Death_knot
+2024-11-15 05:16:35,544 - Wood counted: 13 for wood piece Death_knot_101_256 with defect Death_knot
+2024-11-15 05:16:39,930 - Wood counted: 14 for wood piece Death_knot_211_253 with defect Death_knot
+2024-11-15 05:16:51,644 - Wood counted: 15 for wood piece Death_knot_303_214 with defect Death_knot
