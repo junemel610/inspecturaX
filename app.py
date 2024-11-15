@@ -5,6 +5,7 @@ import cv2
 from roboflow import Roboflow
 import time
 import logging
+import requests  # Import requests for HTTP requests
 
 # Initialize Flask app
 app = Flask(__name__)
@@ -24,6 +25,7 @@ API_KEY = "RFaNdGHxTtn46bvxSFvM"  # Replace with your actual API key
 WORKSPACE = "yolo-wood"
 MODEL_ENDPOINT = "project-design-ekhku"
 VERSION = 2
+BACKEND = "http://localhost:YOUR_PORT"
 
 # Initialize Roboflow model
 rf = Roboflow(api_key=API_KEY)
@@ -43,6 +45,19 @@ def predict(frame):
     prediction = model.predict("temp_frame.jpg", confidence=80, overlap=30).json()
     print("Raw Predictions:", prediction)  # Print raw predictions
     return prediction
+
+def send_to_database(wood_data):
+    """ Sends detected wood data to the Node.js backend for storage in MongoDB. """
+    try:
+        # Use string formatting to insert BACKEND into the URL
+        url = f"{BACKEND}/create-wood"
+        response = requests.post(url, json=wood_data)  # Use the formatted URL
+        if response.status_code == 200:
+            print("Data sent to database successfully:", response.json())
+        else:
+            print("Failed to send data to database:", response.status_code, response.text)
+    except Exception as e:
+        print("Error sending data to database:", e)
 
 def prediction_thread():
     global predictions, wood_count, detected_woods, ROI
@@ -83,6 +98,21 @@ def prediction_thread():
                             detected_woods[wood_piece_id] = {'defects': {defect_name: 1}}  # Initialize defects
                             logging.info(f'Wood counted: {wood_count} for wood piece {wood_piece_id} with defect {defect_name}')
                             print(f'Wood counted: {wood_count} for wood piece {wood_piece_id} with defect {defect_name}')  # Debugging line
+                            
+                            # Prepare defect data
+                            defect_data = detected_woods[wood_piece_id]['defects']
+                            defectNo = sum(defect_data.values())  # Calculate total defects for this wood piece
+
+                            # Prepare data to send to the database
+                            wood_data = {
+                                "woodCount": wood_count,
+                                "defectType": defect_name,
+                                "defectNo": defectNo,  # Use calculated defect number
+                                "woodClassification": object_id,  # Use the object_id as classification
+                                "date": time.strftime("%Y-%m-%d"),  # Current date
+                                "time": int(time.strftime("%H%M"))  # Current time as HHMM
+                            }
+                            send_to_database(wood_data)  # Send data to the database
                         else:
                             # Increment the defect count if the wood piece is already detected
                             if defect_name in detected_woods[wood_piece_id]['defects']:
@@ -143,7 +173,7 @@ def generate_frames():
                 start_y = 70  # Starting Y position for defects display
                 for defect, count in defect_info.items():
                     cv2.putText(frame, f'Defects:', (3, start_y), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 0), 2)
-                    cv2.putText(frame, f'{defect}: {count}', (3, start_y+15), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 0), 2)
+                    cv2.putText(frame, f'{defect}: {count}', (3, start_y + 15), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 0), 2)
                     start_y += 15  # Move down for the next defect
 
             # Draw bounding boxes for all detected woods
@@ -165,7 +195,7 @@ def generate_frames():
 
         yield (b'--frame\r\n'
                b'Content-Type: image/jpeg\r\n\r\n' + frame + b'\r\n')
-        
+
 @app.route('/')
 def video_feed():
     return Response(generate_frames(), mimetype='multipart/x-mixed-replace; boundary=frame')
