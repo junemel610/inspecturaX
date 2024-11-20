@@ -1,15 +1,9 @@
 import threading
-from flask import Flask, Response
-from flask_compress import Compress
 import cv2
 from roboflow import Roboflow
 import time
 import logging
 import requests  # Import requests for HTTP requests
-
-# Initialize Flask app
-app = Flask(__name__)
-Compress(app)  # Enable compression for better performance
 
 # Set up logging
 logging.basicConfig(filename='wood_count.log', level=logging.INFO,
@@ -42,7 +36,7 @@ ROI = (0, 0, 640, 360)  # Default ROI, will be updated based on frame dimensions
 def predict(frame):
     """ Predicts the objects in the frame using the Roboflow model. """
     cv2.imwrite("temp_frame.jpg", frame)  # Save the frame temporarily
-    prediction = model.predict("temp_frame.jpg", confidence=80, overlap=30).json()
+    prediction = model.predict("temp_frame.jpg", confidence=65, overlap=30).json()
     print("Raw Predictions:", prediction)  # Print raw predictions
     return prediction
 
@@ -87,7 +81,7 @@ def prediction_thread():
                     print(f'Object ID: {object_id}, Confidence: {confidence}, Defect: {defect_name}')  # Debugging line
 
                     # Check if the prediction has sufficient confidence
-                    if confidence >= 0.80:  # Only confidence level checked
+                    if confidence >= 0.65:  # Only confidence level checked
                         
                         # Create a unique identifier based on the bounding box coordinates
                         wood_piece_id = f"{object_id}_{int(pred['x'])}_{int(pred['y'])}"  # Unique ID based on position
@@ -138,13 +132,13 @@ def prediction_thread():
                             'y2': adjusted_y2
                         })
 
-        # Wait for 3 seconds before processing the next frame
-        time.sleep(3)
+        # Wait for a brief moment before processing the next frame
+        time.sleep(1)
 
 # Start the prediction thread
 threading.Thread(target=prediction_thread, daemon=True).start()
 
-def generate_frames():
+def display_predictions():
     prev_time = time.time()
     while True:
         success, frame = cap.read()
@@ -178,7 +172,7 @@ def generate_frames():
 
             # Draw bounding boxes for all detected woods
             for pred in predictions:
-                if pred['confidence'] >= 0.80:  # Draw only those with high confidence
+                if pred['confidence'] >= 0.65:  # Draw only those with high confidence
                     cv2.rectangle(frame, (pred['x1'], pred['y1']), (pred['x2'], pred['y2']), (0, 0, 255), 2)  # Red color
                     cv2.putText(frame, f"{pred['class']} ({pred['confidence'] * 100:.1f}%)",
                                 (pred['x1'], pred['y1'] - 10), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 0, 255), 2)  # Red text
@@ -186,24 +180,17 @@ def generate_frames():
             # Display FPS in the bottom right corner
             fps = 1 / (time.time() - prev_time) if prev_time != time.time() else 0
             prev_time = time.time()
-            cv2.putText(frame, f'FPS: {fps:.2f}', (frame.shape[1] - 100, frame.shape[0] - 10),
+            cv2.putText(frame, f'FPS: {fps:.2f}', (frame.shape[1] - 120, frame.shape[0] - 10),
                         cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 0), 2)
 
-        # Encode frame in JPEG format
-        ret, buffer = cv2.imencode('.jpg', frame, [cv2.IMWRITE_JPEG_QUALITY, 70])
-        frame = buffer.tobytes()
-
-        yield (b'--frame\r\n'
-               b'Content-Type: image/jpeg\r\n\r\n' + frame + b'\r\n')
-
-@app.route('/')
-def video_feed():
-    return Response(generate_frames(), mimetype='multipart/x-mixed-replace; boundary=frame')
-
-if __name__ == '__main__':
-    # Start the Flask app
-    app.run(host='0.0.0.0', port=8080)
+        # Show the frame with predictions
+        cv2.imshow('Wood Detection', frame)
+        if cv2.waitKey(1) & 0xFF == ord('q'):  # Press 'q' to exit
+            break
 
     # Cleanup
     cap.release()
     cv2.destroyAllWindows()
+
+if __name__ == '__main__':
+    display_predictions()
