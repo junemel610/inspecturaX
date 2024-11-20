@@ -2,6 +2,7 @@ import threading
 from flask import Flask, Response
 from flask_compress import Compress
 from picamera2 import Picamera2, Preview
+from roboflow import Roboflow
 import time
 import logging
 import requests  # Import requests for HTTP requests
