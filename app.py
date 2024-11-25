@@ -161,7 +161,7 @@ def generate_frames():
 
         with lock:  # Acquire lock to read predictions safely
             # Display the total wood count on the frame
-            cv2.putText(frame, f'Wood Count: {wood_count}', (10, 25), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2)
+            #cv2.putText(frame, f'Wood Count: {wood_count}', (10, 25), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2)
 
             # Check if there are detected woods
             if detected_woods:
@@ -173,12 +173,12 @@ def generate_frames():
                 wood_no = wood_count  # Use the total wood count as the current wood number
 
                 # Display wood number and defects
-                cv2.putText(frame, f'Wood No. {wood_no}', (3, 50), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 0), 2)
-                start_y = 70  # Starting Y position for defects display
-                for defect, count in defect_info.items():
-                    cv2.putText(frame, f'Defects:', (3, start_y), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 0), 2)
-                    cv2.putText(frame, f'{defect}: {count}', (3, start_y + 15), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 0), 2)
-                    start_y += 15  # Move down for the next defect
+                #cv2.putText(frame, f'Wood No. {wood_no}', (3, 50), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 0), 2)
+                #start_y = 70  # Starting Y position for defects display
+                #for defect, count in defect_info.items():
+                #    cv2.putText(frame, f'Defects:', (3, start_y), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 0), 2)
+                #    cv2.putText(frame, f'{defect}: {count}', (3, start_y + 15), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 0), 2)
+                #    start_y += 15  # Move down for the next defect
 
             # Draw bounding boxes for all detected woods
             for pred in predictions:
