@@ -1015,3 +1015,169 @@ cv2.error: OpenCV(4.10.0) :-1: error: (-5:Bad argument) in function 'putText'
 2024-11-21 05:45:39,288 - Wood counted: 88 for wood piece Death_knot_427_198 with defect Death_knot
 2024-11-21 05:45:42,057 - Wood counted: 89 for wood piece Death_knot_438_31 with defect Death_knot
 2024-11-21 05:45:44,768 - Wood counted: 90 for wood piece Death_knot_427_63 with defect Death_knot
+2024-11-25 21:28:55,553 - Wood counted: 1 for wood piece Death_knot_167_199 with defect Death_knot
+2024-11-25 21:28:55,591 - Wood counted: 2 for wood piece Death_knot_182_64 with defect Death_knot
+2024-11-25 21:28:55,592 - Wood counted: 3 for wood piece Death_knot_313_60 with defect Death_knot
+2024-11-25 21:28:59,343 - Wood counted: 4 for wood piece Death_knot_157_195 with defect Death_knot
+2024-11-25 21:28:59,345 - Wood counted: 5 for wood piece resin_22_178 with defect resin
+2024-11-25 21:28:59,346 - Wood counted: 6 for wood piece resin_55_58 with defect resin
+2024-11-25 21:29:03,032 - Wood counted: 7 for wood piece Death_knot_180_56 with defect Death_knot
+2024-11-25 21:29:03,034 - Wood counted: 8 for wood piece Death_knot_55_59 with defect Death_knot
+2024-11-25 21:29:03,035 - Wood counted: 9 for wood piece Death_knot_147_206 with defect Death_knot
+2024-11-25 21:29:07,005 - Wood counted: 10 for wood piece Death_knot_181_64 with defect Death_knot
+2024-11-25 21:29:07,007 - Wood counted: 11 for wood piece Death_knot_145_203 with defect Death_knot
+2024-11-25 21:29:07,008 - Wood counted: 12 for wood piece Death_knot_313_59 with defect Death_knot
+2024-11-25 21:29:09,992 - Wood counted: 13 for wood piece Death_knot_145_197 with defect Death_knot
+2024-11-25 21:29:09,993 - Wood counted: 14 for wood piece Death_knot_180_57 with defect Death_knot
+2024-11-25 21:29:12,058 - Wood counted: 15 for wood piece Death_knot_54_60 with defect Death_knot
+2024-11-25 21:29:12,062 - Wood counted: 16 for wood piece Death_knot_144_198 with defect Death_knot
+2024-11-25 21:29:14,053 - Wood counted: 17 for wood piece Death_knot_312_61 with defect Death_knot
+2024-11-25 21:29:16,000 - Wood counted: 18 for wood piece Death_knot_182_66 with defect Death_knot
+2024-11-25 21:29:19,058 - Wood counted: 19 for wood piece Death_knot_60_54 with defect Death_knot
+2024-11-25 21:29:19,059 - Wood counted: 20 for wood piece Death_knot_181_56 with defect Death_knot
+2024-11-25 21:29:19,062 - Wood counted: 21 for wood piece resin_58_56 with defect resin
+2024-11-25 21:29:20,977 - Wood counted: 22 for wood piece Death_knot_154_194 with defect Death_knot
+2024-11-25 21:29:20,978 - Wood counted: 23 for wood piece Death_knot_181_63 with defect Death_knot
+2024-11-25 21:29:20,979 - Wood counted: 24 for wood piece Death_knot_58_56 with defect Death_knot
+2024-11-25 21:29:23,599 - Wood counted: 25 for wood piece Death_knot_151_195 with defect Death_knot
+2024-11-25 21:29:23,601 - Wood counted: 26 for wood piece Death_knot_56_60 with defect Death_knot
+2024-11-25 21:29:23,602 - Wood counted: 27 for wood piece Death_knot_182_65 with defect Death_knot
+2024-11-25 21:29:25,541 - Wood counted: 28 for wood piece Death_knot_315_60 with defect Death_knot
+2024-11-25 21:29:25,543 - Wood counted: 29 for wood piece Death_knot_181_66 with defect Death_knot
+2024-11-25 21:29:27,485 - Wood counted: 30 for wood piece Death_knot_181_65 with defect Death_knot
+2024-11-25 21:29:27,489 - Wood counted: 31 for wood piece Death_knot_314_61 with defect Death_knot
+2024-11-25 21:29:27,491 - Wood counted: 32 for wood piece Death_knot_167_204 with defect Death_knot
+2024-11-25 21:29:29,418 - Wood counted: 33 for wood piece Death_knot_154_196 with defect Death_knot
+2024-11-25 21:29:29,420 - Wood counted: 34 for wood piece Death_knot_313_61 with defect Death_knot
+2024-11-25 21:29:31,342 - Wood counted: 35 for wood piece Death_knot_314_62 with defect Death_knot
+2024-11-25 21:29:31,344 - Wood counted: 36 for wood piece Death_knot_147_197 with defect Death_knot
+2024-11-25 21:29:33,257 - Wood counted: 37 for wood piece Death_knot_155_196 with defect Death_knot
+2024-11-25 21:29:33,258 - Wood counted: 38 for wood piece resin_56_59 with defect resin
+2024-11-25 21:29:35,814 - Wood counted: 39 for wood piece Death_knot_151_198 with defect Death_knot
+2024-11-25 21:29:35,814 - Wood counted: 40 for wood piece Death_knot_181_55 with defect Death_knot
+2024-11-25 21:29:35,817 - Wood counted: 41 for wood piece Death_knot_58_58 with defect Death_knot
+2024-11-25 21:29:44,505 - Wood counted: 1 for wood piece Death_knot_179_41 with defect Death_knot
+2024-11-25 21:29:44,507 - Wood counted: 2 for wood piece Death_knot_424_36 with defect Death_knot
+2024-11-25 21:29:44,509 - Wood counted: 3 for wood piece Death_knot_229_226 with defect Death_knot
+2024-11-25 21:29:44,511 - Wood counted: 4 for wood piece Death_knot_317_69 with defect Death_knot
+2024-11-25 21:29:46,504 - Wood counted: 5 for wood piece Death_knot_45_238 with defect Death_knot
+2024-11-25 21:29:46,506 - Wood counted: 6 for wood piece Death_knot_176_41 with defect Death_knot
+2024-11-25 21:29:48,419 - Wood counted: 7 for wood piece Death_knot_177_42 with defect Death_knot
+2024-11-25 21:29:48,423 - Wood counted: 8 for wood piece Death_knot_313_28 with defect Death_knot
+2024-11-25 21:31:55,201 - Wood counted: 1 for wood piece Death_knot_424_36 with defect Death_knot
+2024-11-25 21:31:55,202 - Wood counted: 2 for wood piece Death_knot_46_240 with defect Death_knot
+2024-11-25 21:31:55,205 - Wood counted: 3 for wood piece Death_knot_177_41 with defect Death_knot
+2024-11-25 21:31:55,206 - Wood counted: 4 for wood piece Death_knot_313_28 with defect Death_knot
+2024-11-25 21:31:58,822 - Wood counted: 5 for wood piece Death_knot_45_239 with defect Death_knot
+2024-11-25 21:32:02,556 - Wood counted: 6 for wood piece Death_knot_46_239 with defect Death_knot
+2024-11-25 21:32:02,560 - Wood counted: 7 for wood piece Crack_219_241 with defect Crack
+2024-11-25 21:32:05,456 - Wood counted: 8 for wood piece Crack_219_242 with defect Crack
+2024-11-25 21:32:08,290 - Wood counted: 9 for wood piece Crack_219_243 with defect Crack
+2024-11-25 21:32:08,293 - Wood counted: 10 for wood piece Death_knot_176_42 with defect Death_knot
+2024-11-25 21:34:51,954 - Wood detected: Death_knot_424_36 with defect Death_knot
+2024-11-25 21:34:51,956 - Wood detected: Death_knot_352_233 with defect Death_knot
+2024-11-25 21:34:51,956 - Wood detected: Death_knot_178_41 with defect Death_knot
+2024-11-25 21:34:51,957 - Wood detected: Death_knot_311_31 with defect Death_knot
+2024-11-25 21:34:51,958 - Wood detected: Death_knot_45_240 with defect Death_knot
+2024-11-25 21:34:51,958 - Wood detected: Death_knot_279_151 with defect Death_knot
+2024-11-25 21:34:55,873 - Wood detected: Death_knot_351_233 with defect Death_knot
+2024-11-25 21:34:55,873 - Wood detected: Death_knot_46_239 with defect Death_knot
+2024-11-25 21:34:55,874 - Wood detected: Death_knot_177_41 with defect Death_knot
+2024-11-25 21:34:57,873 - Wood detected: Death_knot_424_36 with defect Death_knot
+2024-11-25 21:34:57,873 - Wood detected: Death_knot_313_28 with defect Death_knot
+2024-11-25 21:35:00,513 - Wood detected: Death_knot_352_233 with defect Death_knot
+2024-11-25 21:35:03,654 - Wood detected: Death_knot_46_239 with defect Death_knot
+2024-11-25 21:35:03,655 - Wood detected: Death_knot_177_41 with defect Death_knot
+2024-11-25 21:35:06,820 - Wood detected: Death_knot_424_35 with defect Death_knot
+2024-11-25 21:35:06,822 - Wood detected: Death_knot_351_232 with defect Death_knot
+2024-11-25 21:35:06,824 - Wood detected: Death_knot_180_41 with defect Death_knot
+2024-11-25 21:35:10,353 - Wood detected: Death_knot_351_233 with defect Death_knot
+2024-11-25 21:35:10,355 - Wood detected: Death_knot_46_239 with defect Death_knot
+2024-11-25 21:35:10,355 - Wood detected: Death_knot_181_40 with defect Death_knot
+2024-11-25 21:45:34,612 - Wood counted: 1 for wood piece Death_knot_424_36 with defect Death_knot
+2024-11-25 21:45:34,614 - Wood counted: 2 for wood piece Death_knot_255_147 with defect Death_knot
+2024-11-25 21:45:34,615 - Wood counted: 3 for wood piece Death_knot_179_40 with defect Death_knot
+2024-11-25 21:45:34,617 - Wood counted: 4 for wood piece Knot_missing_403_240 with defect Knot_missing
+2024-11-25 21:45:34,618 - Wood counted: 5 for wood piece Death_knot_359_234 with defect Death_knot
+2024-11-25 21:45:34,619 - Wood counted: 6 for wood piece Death_knot_45_240 with defect Death_knot
+2024-11-25 21:45:34,620 - Wood counted: 7 for wood piece Death_knot_313_28 with defect Death_knot
+2024-11-25 21:45:39,049 - Wood counted: 8 for wood piece Death_knot_46_240 with defect Death_knot
+2024-11-25 21:45:39,051 - Wood counted: 9 for wood piece Death_knot_178_41 with defect Death_knot
+2024-11-25 21:45:43,507 - Wood counted: 10 for wood piece Death_knot_177_42 with defect Death_knot
+2024-11-25 21:45:43,508 - Wood counted: 11 for wood piece Death_knot_312_29 with defect Death_knot
+2024-11-25 21:52:02,764 - Wood counted: 1 for wood piece Death_knot_424_36 with defect Death_knot
+2024-11-25 21:52:02,767 - Wood counted: 2 for wood piece Death_knot_180_40 with defect Death_knot
+2024-11-25 21:52:02,768 - Wood counted: 3 for wood piece Death_knot_362_225 with defect Death_knot
+2024-11-25 21:52:04,697 - Wood counted: 4 for wood piece Death_knot_46_239 with defect Death_knot
+2024-11-25 21:52:04,700 - Wood counted: 5 for wood piece Death_knot_361_225 with defect Death_knot
+2024-11-25 21:52:04,702 - Wood counted: 6 for wood piece Death_knot_177_41 with defect Death_knot
+2024-11-25 21:52:04,704 - Wood counted: 7 for wood piece Death_knot_313_28 with defect Death_knot
+2024-11-25 21:52:09,190 - Wood counted: 8 for wood piece Death_knot_425_36 with defect Death_knot
+2024-11-25 21:52:09,193 - Wood counted: 9 for wood piece Death_knot_360_224 with defect Death_knot
+2024-11-25 21:52:11,665 - Wood counted: 10 for wood piece Death_knot_358_225 with defect Death_knot
+2024-11-25 21:52:11,667 - Wood counted: 11 for wood piece Death_knot_312_30 with defect Death_knot
+2024-11-25 21:52:14,337 - Wood counted: 12 for wood piece Death_knot_360_225 with defect Death_knot
+2024-11-25 21:53:22,204 - Wood counted: 1 for wood piece Death_knot_424_36 with defect Death_knot
+2024-11-25 21:53:22,206 - Wood counted: 2 for wood piece Death_knot_180_40 with defect Death_knot
+2024-11-25 21:53:22,208 - Wood counted: 3 for wood piece Death_knot_349_226 with defect Death_knot
+2024-11-25 21:53:22,209 - Wood counted: 4 for wood piece Death_knot_45_239 with defect Death_knot
+2024-11-25 21:53:25,700 - Wood counted: 5 for wood piece Death_knot_425_36 with defect Death_knot
+2024-11-25 21:53:25,702 - Wood counted: 6 for wood piece Death_knot_349_225 with defect Death_knot
+2024-11-25 21:53:25,703 - Wood counted: 7 for wood piece Death_knot_46_239 with defect Death_knot
+2024-11-25 21:53:25,704 - Wood counted: 8 for wood piece Death_knot_176_41 with defect Death_knot
+2024-11-25 21:53:25,706 - Wood counted: 9 for wood piece Death_knot_311_30 with defect Death_knot
+2024-11-25 21:53:28,839 - Wood counted: 10 for wood piece Death_knot_177_41 with defect Death_knot
+2024-11-25 21:53:28,842 - Wood counted: 11 for wood piece Death_knot_313_29 with defect Death_knot
+2024-11-25 21:53:32,321 - Wood counted: 12 for wood piece Death_knot_312_31 with defect Death_knot
+2024-11-25 21:53:34,254 - Wood counted: 13 for wood piece Death_knot_350_226 with defect Death_knot
+2024-11-25 21:53:34,259 - Wood counted: 14 for wood piece Death_knot_178_41 with defect Death_knot
+2024-11-25 21:53:42,354 - Wood counted: 1 for wood piece Death_knot_424_36 with defect Death_knot
+2024-11-25 21:53:42,354 - Wood counted: 2 for wood piece Death_knot_349_226 with defect Death_knot
+2024-11-25 21:53:42,356 - Wood counted: 3 for wood piece Death_knot_177_41 with defect Death_knot
+2024-11-25 21:53:42,356 - Wood counted: 4 for wood piece Death_knot_46_239 with defect Death_knot
+2024-11-25 21:53:44,249 - Wood counted: 5 for wood piece Death_knot_349_225 with defect Death_knot
+2024-11-25 21:53:46,854 - Wood counted: 6 for wood piece Death_knot_313_29 with defect Death_knot
+2024-11-25 21:53:49,564 - Wood counted: 7 for wood piece Death_knot_425_36 with defect Death_knot
+2024-11-25 21:53:49,567 - Wood counted: 8 for wood piece Death_knot_349_224 with defect Death_knot
+2024-11-25 21:53:49,568 - Wood counted: 9 for wood piece Death_knot_311_30 with defect Death_knot
+2024-11-25 21:53:55,835 - Wood counted: 10 for wood piece Death_knot_46_240 with defect Death_knot
+2024-11-25 21:53:55,836 - Wood counted: 11 for wood piece Death_knot_313_28 with defect Death_knot
+2024-11-25 21:53:58,542 - Wood counted: 12 for wood piece Death_knot_424_35 with defect Death_knot
+2024-11-25 21:54:01,167 - Wood counted: 13 for wood piece Death_knot_176_41 with defect Death_knot
+2024-11-25 21:54:01,171 - Wood counted: 14 for wood piece Death_knot_311_31 with defect Death_knot
+2024-11-25 21:54:03,873 - Wood counted: 15 for wood piece Death_knot_45_238 with defect Death_knot
+2024-11-25 21:54:03,874 - Wood counted: 16 for wood piece Death_knot_313_31 with defect Death_knot
+2024-11-25 21:54:03,876 - Wood counted: 17 for wood piece Death_knot_178_41 with defect Death_knot
+2024-11-25 21:54:05,740 - Wood counted: 18 for wood piece Death_knot_313_30 with defect Death_knot
+2024-11-25 21:54:05,744 - Wood counted: 19 for wood piece Death_knot_45_239 with defect Death_knot
+2024-11-25 21:54:05,747 - Wood counted: 20 for wood piece Death_knot_290_134 with defect Death_knot
+2024-11-25 21:54:05,748 - Wood counted: 21 for wood piece Death_knot_403_240 with defect Death_knot
+2024-11-25 21:54:10,369 - Wood counted: 22 for wood piece Death_knot_370_221 with defect Death_knot
+2024-11-25 21:54:12,236 - Wood counted: 23 for wood piece Death_knot_425_35 with defect Death_knot
+2024-11-25 21:54:12,238 - Wood counted: 24 for wood piece Death_knot_371_219 with defect Death_knot
+2024-11-25 21:55:24,746 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-25 21:55:24,746 - [33mPress CTRL+C to quit[0m
+2024-11-25 21:55:27,277 - Wood counted: 1 for wood piece Death_knot_424_36 with defect Death_knot
+2024-11-25 21:55:35,202 - 127.0.0.1 - - [25/Nov/2024 21:55:35] "GET / HTTP/1.1" 200 -
+2024-11-25 21:57:09,582 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-25 21:57:09,582 - [33mPress CTRL+C to quit[0m
+2024-11-25 21:57:11,212 - 127.0.0.1 - - [25/Nov/2024 21:57:11] "GET / HTTP/1.1" 200 -
+2024-11-25 21:57:11,486 - Wood counted: 1 for wood piece Death_knot_424_36 with defect Death_knot
+2024-11-25 21:57:16,558 - Wood counted: 2 for wood piece Death_knot_425_36 with defect Death_knot
+2024-11-25 21:58:11,873 - Wood counted: 3 for wood piece Death_knot_244_136 with defect Death_knot
+2024-11-25 22:03:32,238 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.3:8080
+2024-11-25 22:03:32,238 - [33mPress CTRL+C to quit[0m
+2024-11-25 22:03:32,390 - 127.0.0.1 - - [25/Nov/2024 22:03:32] "GET / HTTP/1.1" 200 -
+2024-11-25 22:03:47,276 - Wood counted: 1 for wood piece Death_knot_425_36 with defect Death_knot
+2024-11-25 22:03:53,443 - Wood counted: 2 for wood piece Death_knot_138_168 with defect Death_knot
+2024-11-25 22:03:53,445 - Wood counted: 3 for wood piece Death_knot_426_35 with defect Death_knot
+2024-11-25 22:04:28,925 - Wood counted: 4 for wood piece Death_knot_424_36 with defect Death_knot
