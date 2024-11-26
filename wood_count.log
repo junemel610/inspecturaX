@@ -1718,3 +1718,4 @@ UnboundLocalError: cannot access local variable 'start_y' where it is not associ
 2024-11-25 18:42:08,709 - Wood counted: 37
 2024-11-25 18:42:10,003 - Camera stopped
 2024-11-25 18:42:10,205 - Camera closed successfully.
+2024-11-27 06:36:37,292 - generated new fontManager
